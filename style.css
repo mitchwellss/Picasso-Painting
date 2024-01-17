@@ -1,0 +1,33 @@
+.top-rectangles{
+    flex-direction: row;
+    margin: 10px;
+   display: grid;
+   grid-template-rows:max-content;
+  
+   
+  
+   
+   
+}
+
+
+
+.rec1{
+   background-color:blue;
+    width: 100px;
+    height: 50px;
+    
+   
+}
+.rec2{
+    background-color:rgb(28, 107, 197);
+     width: 100px;
+     height: 50px;
+     
+ }
+ .rec3{
+    background-color:rgb(46, 88, 213);
+     width: 100px;
+     height: 50px;
+     ;
+ }
